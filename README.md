@@ -8,4 +8,4 @@ We have reimplemented the traditional Tensorflow1.X implementation of the paper 
 
 # AttentionDNN Implementation
 We have proposed an alternate approach where we use Attention Mechanism instead of Prototypes to explain the predictions made by the Neural Network. Codebase for this can be found in Tensorflow2.X folder.
-![Uploading fig12.png…]()
+<img width="747" alt="fig12" src="https://github.com/user-attachments/assets/a79924c1-d3c2-48d8-9db4-9fbb9e4dac78" />
